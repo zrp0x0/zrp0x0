@@ -5,16 +5,16 @@
 
 <br>
 
-### 👨🏻‍💻 About Me
+### About Me
 
-- 🎓 **Education:** Konkuk Univ. Computer Science and Engineering (2020 ~ )
-- 🌱 **Currently Learning:** 
-- 🎯 **Goals:** 
-- 💡 **Interests:** Backend Engineering, Web Security, Computer Vision(Exploring)
+- **Education:** Konkuk Univ. Computer Science and Engineering (2020 ~ )
+- **Currently Learning:** 
+- **Goals:** 
+- **Interests:** Backend Engineering, Web Security, Computer Vision(Exploring)
 
 <br>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 > **Languages**
 <p>
@@ -37,14 +37,13 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  #382923
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <br>
 
-### 📫 Contact & Connect
+### Contact
 
 <p>
   <a href="mailto:zrp0x0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
