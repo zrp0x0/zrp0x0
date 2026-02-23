@@ -8,9 +8,9 @@
 ### 👨🏻‍💻 About Me
 
 - 🎓 **Education:** Konkuk Univ. Computer Science and Engineering (2020 ~ )
-- 🌱 **Currently Learning:** Exploring ways to robust Java Spring-based backend architectures and Python-based Computer Vision.
-- 🎯 **Goals:** - Designing stable, scalable servers that remain unshaken by any variables
-- 💡 **Interests:** Backend Architecture, Web Security, Computer Vision (Exploring).
+- 🌱 **Currently Learning:** 
+- 🎯 **Goals:** 
+- 💡 **Interests:** Backend Engineering, Web Security, Computer Vision(Exploring)
 
 <br>
 
