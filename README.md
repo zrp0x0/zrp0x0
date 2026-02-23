@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h2> 🚀 Hello, I'm Honggyu Shin </h2>
   <p> <b>"Defined by nothing, capable of everything."</b> </p>
 </div>
@@ -8,36 +8,35 @@
 ### 👨🏻‍💻 About Me
 
 - 🎓 **Education:** Konkuk Univ. Computer Science and Engineering
-- 🌱 **Currently Learning:** Java Spring 기반의 견고한 웹 백엔드 아키텍처와 Python 기반의 Computer Vision을 융합하는 방법을 탐구하고 있습니다.
-- 🎯 **Goals:** - 어떤 변수에도 흔들리지 않는 안정적이고 확장 가능한 서버 설계 (Professional)
-  - 철저한 규율(Discipline)을 바탕으로 한 지속적인 성장 (Self-Control)
-- 💡 **Interests:** Backend Architecture, Web Security, Computer Vision(Exploring)
+- 🌱 **Currently Learning:** Exploring ways to integrate robust Java Spring-based backend architectures with Python-based Computer Vision.
+- 🎯 **Goals:** - Designing stable, scalable servers that remain unshaken by any variables (Professional).
+  - Pursuing continuous growth based on strict self-discipline (Self-Control).
+- 💡 **Interests:** Backend Architecture, Web Security, Computer Vision (Exploring).
 
 <br>
 
-### 🛠️ Tech Stack & Languages
+### 🛠️ Tech Stack
 
 > **Languages**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-> **Backend Frameworks**
+> **Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
-
-> **AI / Computer Vision (Exploring)**
-<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
-> **Infrastructure & Tools**
+> **Tools**
 <p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
