@@ -1,5 +1,5 @@
 <div>
-  <h2> 🚀 Hello, I'm Honggyu Shin </h2>
+  <h2> Hello, I'm Honggyu Shin </h2>
   <p> <b>"Defined by nothing, capable of everything."</b> </p>
 </div>
 
@@ -7,10 +7,9 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 **Education:** Konkuk Univ. Computer Science and Engineering
-- 🌱 **Currently Learning:** Exploring ways to integrate robust Java Spring-based backend architectures with Python-based Computer Vision.
-- 🎯 **Goals:** - Designing stable, scalable servers that remain unshaken by any variables (Professional).
-  - Pursuing continuous growth based on strict self-discipline (Self-Control).
+- 🎓 **Education:** Konkuk Univ. Computer Science and Engineering (2020 ~ )
+- 🌱 **Currently Learning:** Exploring ways to robust Java Spring-based backend architectures and Python-based Computer Vision.
+- 🎯 **Goals:** - Designing stable, scalable servers that remain unshaken by any variables
 - 💡 **Interests:** Backend Architecture, Web Security, Computer Vision (Exploring).
 
 <br>
@@ -46,7 +45,7 @@
 
 ### 📫 Contact & Connect
 
-<p align="center">
+<p>
   <a href="mailto:zrp0x0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://velog.io/@zrp/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Blog" /></a>
 </p>
