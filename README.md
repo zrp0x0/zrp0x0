@@ -49,19 +49,9 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zrp0x0&show_icons=true&theme=radium&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrp0x0&layout=compact&theme=radium&hide_border=true" width="48%" />
-</div>
-
-<br>
-
 ### 📫 Contact & Connect
 
 <p align="center">
   <a href="mailto:zrp0x0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://velog.io/@zrp/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Blog" /></a>
-  <a href="https://www.linkedin.com/in/honggyu-shin-139a513aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
