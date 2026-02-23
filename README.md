@@ -1,21 +1,17 @@
-아무것도 아니기에 무엇이든 될 수 있는 사람이 되고 싶은 사람
-
 <div align="center">
   <h2> 🚀 Hello, I'm Honggyu Shin </h2>
-  <p> <b>"지속적인 통제와 훈련을 통해, 대체 불가능한 엔지니어를 꿈꿉니다."</b> </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=zrp0x0&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <p> <b>"Defined by nothing, capable of everything."</b> </p>
 </div>
 
 <br>
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 **Education:** Konkuk Univ. Computer Science and Engineering (컴퓨터공학 전공)
+- 🎓 **Education:** Konkuk Univ. Computer Science and Engineering
 - 🌱 **Currently Learning:** Java Spring 기반의 견고한 웹 백엔드 아키텍처와 Python 기반의 Computer Vision을 융합하는 방법을 탐구하고 있습니다.
 - 🎯 **Goals:** - 어떤 변수에도 흔들리지 않는 안정적이고 확장 가능한 서버 설계 (Professional)
   - 철저한 규율(Discipline)을 바탕으로 한 지속적인 성장 (Self-Control)
-- 💡 **Interests:** Backend Architecture, Web Security, Computer Vision(Hobby)
+- 💡 **Interests:** Backend Architecture, Web Security, Computer Vision(Exploring)
 
 <br>
 
