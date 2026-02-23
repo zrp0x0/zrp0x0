@@ -8,9 +8,7 @@
 ### About Me
 
 - **Education:** Konkuk Univ. Computer Science and Engineering (2020 ~ )
-- **Currently Learning:** 
-- **Goals:** 
-- **Interests:** Backend Engineering, Web Security, Computer Vision(Exploring)
+- **Currently Learning:** Backend Engineering, Web Security, Computer Vision(Exploring)
 
 <br>
 
