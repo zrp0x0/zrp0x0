@@ -9,7 +9,7 @@
 **Konkuk University** | Seoul, Republic of Korea
 * **Major:** Computer Science and Engineering
 * **Period:** March 2020 -
-* **Exploring**: Software Engineering, Computer Vision, Web Security
+* **Exploring**: Server Engineering, Computer Vision, Web Security
 
 ---
 
