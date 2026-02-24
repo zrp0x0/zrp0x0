@@ -1,7 +1,6 @@
 <div>
   <h1>Shin Honggyu</h1>
   <p> <b>"Defined by nothing, capable of everything."</b> </p>
-  <br />
 </div>
 
 ---
@@ -10,7 +9,7 @@
 **Konkuk University** | Seoul, Republic of Korea
 * **Major:** Computer Science and Engineering
 * **Period:** March 2020 -
-* Exploring: Software Engineering, Computer Vision, Web Security
+* **Exploring**: Software Engineering, Computer Vision, Web Security
 
 ---
 
@@ -58,14 +57,6 @@
 ---
 
 ### PROJECTS
-
-> <a href="여기에_링크_입력">Project 1</a>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
 
 ---
 
