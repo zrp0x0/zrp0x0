@@ -4,7 +4,7 @@
   <br />
 </div>
 
-<br />
+---
 
 ### EDUCATION 
 **Konkuk University** | Seoul, Republic of Korea
@@ -12,7 +12,7 @@
 * **Period:** March 2020 -
 * Exploring: Software Engineering, Computer Vision, Web Security
 
-<br />
+---
 
 ### SKILLS SUMMARY
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 </p>
 
-<br />
+---
 
 ### PROJECTS
 
@@ -67,9 +67,11 @@
   <li></li>
 </ul>
 
-<br />
+---
 
 ### CERTIFICATES
+
+---
 
 ### Contact
 
