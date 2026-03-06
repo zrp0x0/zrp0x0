@@ -1,6 +1,6 @@
 <div>
   <h1>Shin Honggyu</h1>
-  <p> <b>"Defined by nothing, capable of everything."</b> </p>
+  <p> <b>"목소리 한 번 내고 가죠!"</b> </p>
 </div>
 
 ---
@@ -8,8 +8,8 @@
 ### EDUCATION 
 **Konkuk University** | Seoul, Republic of Korea
 * **Major:** Computer Science and Engineering
-* **Period:** March 2020 -
-* **Exploring**: Server Engineering, Computer Vision, Web Security
+* **Period:** March 2020 ~ 
+* **Exploring**: Server Engineering(Main), Computer Vision(Sub)
 
 ---
 
