@@ -23,18 +23,3 @@
 </p>
 
 ---
-
-### PROJECTS
-
----
-
-### CERTIFICATES
-
----
-
-### Contact
-
-<p>
-  <a href="mailto:zrp0x0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://velog.io/@zrp/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Blog" /></a>
-</p>
